@@ -11,6 +11,12 @@ Derived Dataset : In order to conduct our experiments, we also created a custom 
 the ModelNet10 dataset. We selected 8 categories from the ShapeNet dataset, including airplane, bench, cabinet, car, chair, lamp, sofa, and table, as well as 2 categories from
 the ModelNet10 dataset, which were bathtub and bed. ShapeNet dataset can be downloaded from this link. https://gateway.infinitescript.com/?fileName=ShapeNetCompletion
 
+test_classification.py provided by https://github.com/yanx27/Pointnet_Pointnet2_pytorch is updated to build a confusion matrix.
+
+train_classification.py provided by https://github.com/yanx27/Pointnet_Pointnet2_pytorch is updated to log losses in a text file.
+
+ModelNetDataloader.py provided by https://github.com/yanx27/Pointnet_Pointnet2_pytorch is updated to handle less number of points in point cloud.
+
 
 Codes for dataset coversions will be uploaded soon
 
