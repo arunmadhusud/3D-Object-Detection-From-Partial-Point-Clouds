@@ -18,8 +18,6 @@ train_classification.py provided by https://github.com/yanx27/Pointnet_Pointnet2
 ModelNetDataloader.py provided by https://github.com/yanx27/Pointnet_Pointnet2_pytorch is updated to handle less number of points in point cloud.
 
 
-Codes for dataset coversions will be uploaded soon
-
 ## Acknowledgements
 
 1. Nikita Karaevv : Owner of Github Repository "PyTorch implementation of "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation". https://github.com/nikitakaraevv/pointnet
